@@ -1,0 +1,1 @@
+package com.openuniqesolution.inventoryservice.repo;
